@@ -36,13 +36,14 @@ Run the development server:
 npm start
 ```
 📂 Project Structure
+```
 book-sharing-platform/
 │── backend/        # Server-side code (APIs, DB models)
 │── frontend/       # Client-side code (UI components)
 │── public/         # Static assets
 │── package.json    # Dependencies & scripts
 │── README.md       # Project documentation
-
+```
 🧑‍🤝‍🧑 Contribution
 
 We welcome contributions!
